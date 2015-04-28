@@ -1,0 +1,6 @@
+c:\users\mukilan\documents\visual studio 2012\Projects\fishing\fishing\bin\Debug\fishing.exe.config
+c:\users\mukilan\documents\visual studio 2012\Projects\fishing\fishing\bin\Debug\fishing.exe
+c:\users\mukilan\documents\visual studio 2012\Projects\fishing\fishing\bin\Debug\fishing.pdb
+c:\users\mukilan\documents\visual studio 2012\Projects\fishing\fishing\obj\Debug\fishing.csprojResolveAssemblyReference.cache
+c:\users\mukilan\documents\visual studio 2012\Projects\fishing\fishing\obj\Debug\fishing.exe
+c:\users\mukilan\documents\visual studio 2012\Projects\fishing\fishing\obj\Debug\fishing.pdb
