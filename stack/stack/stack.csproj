@@ -7,7 +7,7 @@
     <ProjectGuid>{08979289-245B-4589-9435-50A9C3853ACB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>stack</RootNamespace>
+    <RootNamespace>Stack</RootNamespace>
     <AssemblyName>stack</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

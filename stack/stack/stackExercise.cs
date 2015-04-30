@@ -5,17 +5,18 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace stack
+namespace Stack
 {
-    public class stackExercise 
+    public class StackExercise 
     {
         string[] elements;
         int state;
-        public stackExercise()
+        public StackExercise()
         {
             elements = new string[10];
             state = -1;
         }
+
         public void push(string name)
         {
             try
@@ -46,6 +47,7 @@ namespace stack
                 Console.WriteLine(e.Message);
             }
         }
+
         public string pop()
         {
             try
@@ -86,6 +88,7 @@ namespace stack
                 return e.Message;
             }
         }
+
         public bool isEmpty()
         {
             if (state == -1)
